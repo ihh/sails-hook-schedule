@@ -24,7 +24,6 @@ module.exports = {
 		},
 		task           : {
 			type       : "json",
-			columnType : "array",
 			required   : true
 		}
 	}
