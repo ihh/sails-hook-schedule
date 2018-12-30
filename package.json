@@ -28,7 +28,7 @@
   "dependencies"   : {
     "fs-extra"             : "0.26.5",
     "node-schedule"        : "^1.0.0",
-    "sails-util-mvcsloader": "^0.3.2"
+    "sails-util-mvcsloader": "git@github.com:ihh/sails-util-mvcsloader.git"
   },
   "sails"          : {
     "isHook": true
